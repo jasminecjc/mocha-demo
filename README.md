@@ -1,0 +1,2 @@
+此仓库为学习mocha单元测试的demo仓库，配合vscode进行测试，后续会添加mocha进行单元测试/异步单元测试的说明
+并在此感谢[廖雪峰老师的教程](http://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000/0014723007105817ff3d8fae5b9491a88982aa1655e66be000)
